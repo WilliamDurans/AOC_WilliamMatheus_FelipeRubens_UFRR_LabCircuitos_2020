@@ -8,7 +8,8 @@
   Relatório técnico de acordo com a proposta feita em sala de aula pelo docente Prof. Dr. Herbert Oliveira relacionada a 
 Implementação de Componentes com suas devidas características.
 
-  Resumo 
+  Resumo: 
+  
   Esse relatório consiste na apresentação sobre a implementação dos devidos 13 componentes solicitados em documento via Sigaa no dia 17 de outubro de 2022, 
 expondo suas devidas descrições, funcionalidades, imagens de componentes, testes e descrição dos testes realizados via software.
  
